@@ -192,7 +192,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 1.5rem;
     font-weight: normal;
     line-height: 2rem;
-    list-style-image:url(фотографии/звезда.png);
+    list-style-image:url(фотографии/иконки/звезда.png);
     margin: 0 1.75rem;
 }
 
